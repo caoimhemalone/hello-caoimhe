@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/caoimhemalone/hello-caoimhe/static/css/main.780faa0f.chunk.css",
+    "main.js": "/caoimhemalone/hello-caoimhe/static/js/main.14267ce4.chunk.js",
+    "main.js.map": "/caoimhemalone/hello-caoimhe/static/js/main.14267ce4.chunk.js.map",
+    "runtime-main.js": "/caoimhemalone/hello-caoimhe/static/js/runtime-main.18270693.js",
+    "runtime-main.js.map": "/caoimhemalone/hello-caoimhe/static/js/runtime-main.18270693.js.map",
+    "static/js/2.9622ad69.chunk.js": "/caoimhemalone/hello-caoimhe/static/js/2.9622ad69.chunk.js",
+    "static/js/2.9622ad69.chunk.js.map": "/caoimhemalone/hello-caoimhe/static/js/2.9622ad69.chunk.js.map",
+    "index.html": "/caoimhemalone/hello-caoimhe/index.html",
+    "precache-manifest.ffe48e6fd0ccdfcd678fcae77c5695a9.js": "/caoimhemalone/hello-caoimhe/precache-manifest.ffe48e6fd0ccdfcd678fcae77c5695a9.js",
+    "service-worker.js": "/caoimhemalone/hello-caoimhe/service-worker.js",
+    "static/css/main.780faa0f.chunk.css.map": "/caoimhemalone/hello-caoimhe/static/css/main.780faa0f.chunk.css.map",
+    "static/media/default.min.css": "/caoimhemalone/hello-caoimhe/static/media/bkg_9.d40e8233.jpg"
+  }
+}
